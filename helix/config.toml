@@ -1,0 +1,7 @@
+theme = "ao"
+
+[editor]
+line-number = "relative"
+
+[editor.soft-wrap]
+enable = true
